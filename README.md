@@ -32,11 +32,11 @@ You can look for a short guide on Markdown syntax available [here.](https://docs
 
 There is a deadline for each weekly exercise.
 
-When you have done the exercises of the corresponding week, you have to return the link (URL) of this repository into [Moodle](https://moodle.oulu.fi) into the corresponding returning box ***before the deadline***, which is before the next supported session.
+When you have done the exercises of the corresponding week, you have to return the link (URL) of this repository into [Moodle](https://moodle.oulu.fi) into the corresponding returning box ***before the deadline***.
 
 >**Note**
 > You can return the link beforehand and edit the corresponding exercise still here, as long as it has been done before the deadline.
 
-In practice, if you have done all of the six exercises, you return this same link six times for different return boxes.
+In practice, if you have done all of the seven exercises, you return this same link seven times for different return boxes.
 
 
